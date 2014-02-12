@@ -1,0 +1,15 @@
+{
+    "name": "base-p",
+    "version": "0.0.1",
+    "main": "",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "README.md"
+    ]
+}
