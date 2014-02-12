@@ -1,0 +1,16 @@
+@import 'compass';
+
+$main_dark_color: #FF0000;
+$accent_color: #333333;
+
+
+p{
+	color: $main_dark_color;
+	background-color: yellow;
+}
+
+a{
+	color:$accent_color;
+	@include border-radius();
+
+}
